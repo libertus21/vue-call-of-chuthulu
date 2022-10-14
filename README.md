@@ -1,6 +1,6 @@
 # vue-call-of-chuthulu
 
-Practica usando vue.js, vuetifly y firebase para simular las reglas del juego rol de mesa: Call of chuthulu edicion 5 y 7. (https://en.wikipedia.org/wiki/Call_of_Cthulhu_(role-playing_game))
+Practica usando vue.js,vue-router, vuex, vuetifly y firebase como base de datos para simular las reglas del juego rol de mesa: Call of chuthulu edicion 5 y 7. (https://en.wikipedia.org/wiki/Call_of_Cthulhu_(role-playing_game))
  
 Puede crear su usuario y contraseña. O ingresar con la siguiente credenciales
  
