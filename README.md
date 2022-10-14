@@ -5,6 +5,7 @@ Practica usando vue.js, vuetifly y firebase para simular las reglas del juego ro
 Puede crear su usuario y contraseña. O ingresar con la siguiente credenciales
  
 Correo: investigador@gmail.com
+
 pass: 123456
 
 Para iniciar el proyecto, realiza los siguientes comandos:
